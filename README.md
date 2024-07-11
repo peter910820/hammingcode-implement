@@ -1,2 +1,2 @@
 # hammingcode-implement
-hamming code implement with php
+hamming code implement with python
